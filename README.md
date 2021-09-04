@@ -1,4 +1,7 @@
 # Galleme
+
+This is the meta repository of the Galleme Gallery App.
+
 ## Pre-requisites
 ### Node
 See [NodeJS Getting Started](https://nodejs.org/en/docs/guides/getting-started-guide/)
