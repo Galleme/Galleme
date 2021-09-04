@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "backend": "https://github.com/Galleme/backend.git",
+    "frontent": "https://github.com/Galleme/frontend.git",
+    "frontend": "https://github.com/Galleme/frontend.git"
+  }
+}
